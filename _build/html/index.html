@@ -1,0 +1,169 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Welcome to the “How Would ReproNim Do That?” Series &#8212; HowWouldReproNim  documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/language_data.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="toctree-wrapper compound">
+</div>
+<a class="reference internal image-reference" href="_images/logo-512.png"><img alt="_images/logo-512.png" src="_images/logo-512.png" style="width: 512.0px; height: 291.0px;" /></a>
+<div class="section" id="welcome-to-the-how-would-repronim-do-that-series">
+<h1>Welcome to the “How Would ReproNim Do <em>That</em>?” Series<a class="headerlink" href="#welcome-to-the-how-would-repronim-do-that-series" title="Permalink to this headline">¶</a></h1>
+<p><strong>Overview</strong></p>
+<p>ReproNim has created a lot of tools. It is often confusing, however, how these tools fit together to solve specific problems. In the “How would ReproNim do that?” series of documents, we look at a number of real world problems and discuss the “ReproNim Way” of handling them. We try to compare and contrast the ReproNim Way relative to the “traditional” way of handling these topics, and explore the potential costs and benefits that come with the ReproNim approach.</p>
+<div class="admonition important">
+<p class="first admonition-title">Important</p>
+<p class="last">The handbook is currently in pre-alpha stage.
+If you would be willing to provide feedback on its contents, please</p>
+</div>
+<div class="section" id="volume-1-how-would-repronim-do-local-container-analysis">
+<h2>Volume 1: How Would ReproNim Do Local Container Analysis<a class="headerlink" href="#volume-1-how-would-repronim-do-local-container-analysis" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem Statement</strong>: I have an image file (anat.nii); I have a container I want to run (neuronets/kwyk:latest-cpu); and I’d like to ‘manage’ the process and output in a reproducible way and then publish this process so that someone else could do the same thing.</p>
+<p><strong>Stakeholder</strong>: End User (Data Analyst)</p>
+<p><a class="reference external" href="https://docs.google.com/document/d/1Mq8Tsn8o8EKz2O4dyJJaHdNtZTzptb9eoGcZk7ZfsnE/edit#heading=h.f2r73p8wqece">Published doc</a></p>
+</div>
+<div class="section" id="volume-2-how-would-repronim-publish-a-dataset">
+<h2>Volume 2: How Would ReproNim publish a dataset<a class="headerlink" href="#volume-2-how-would-repronim-publish-a-dataset" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem statement</strong>: I’ve got a study; N subjects, Nifti data, behavioral metadata (subject demographics) in csv file. I’d like to publish this in a FAIR (particularly reusable, i.e. self describing) way.</p>
+<p><strong>Stakeholder</strong>: End User (Data Acquirer)</p>
+<p><a class="reference external" href="https://docs.google.com/document/d/1wv-COdc2wYHepTENGZ8PbcWuxWLMjxMmvKPxOdJhkRY/edit#heading=h.f2r73p8wqece">Published doc</a></p>
+</div>
+<div class="section" id="volume-3-how-would-repronim-nidmify-my-software">
+<h2>Volume 3: How Would ReproNim NIDMify my software<a class="headerlink" href="#volume-3-how-would-repronim-nidmify-my-software" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem Statement</strong>: I’m a tool developer, I have a new volumetric tool.  How do I make it ReproNim compliant (i.e. NIDMify it) (provenance and output?</p>
+<p><strong>Stakeholder</strong>: Software Developer</p>
+<p>Published doc: TBD</p>
+</div>
+<div class="section" id="volume-4-how-would-repronim-managing-local-freesurfer-results">
+<h2>Volume 4: How Would ReproNim Managing Local FreeSurfer Results<a class="headerlink" href="#volume-4-how-would-repronim-managing-local-freesurfer-results" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem statement</strong>: I’m an investigator, I’ve already run a bunch of FreeSurfers (and other volume tools). How do I integrate my local results with public results (the ReproLake)?</p>
+<p><strong>Stakeholder</strong>: End User (Data Analyst)</p>
+<p><a class="reference external" href="https://docs.google.com/document/d/18Ud5RWec-As65-FFgkzcwf9agVtxW9bcozZeuLyfRNM/edit#heading=h.f2r73p8wqece">Published doc</a></p>
+</div>
+<div class="section" id="volume-5-how-would-repronim-markup-local-behavioral-data-in-redcap-for-export">
+<h2>Volume 5: How Would ReproNim Markup Local Behavioral Data in RedCap for Export<a class="headerlink" href="#volume-5-how-would-repronim-markup-local-behavioral-data-in-redcap-for-export" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem Statement</strong>: I have a new study with the behavioral data in RedCap. How do I maintain (and export this) in the ReproNim way?</p>
+<p><strong>Stakeholders</strong>: Data Managers</p>
+<p>Published doc: TBD</p>
+</div>
+<div class="section" id="volume-6-how-would-repronim-do-abcd-analysis">
+<h2>Volume 6: How Would ReproNim do ABCD analysis<a class="headerlink" href="#volume-6-how-would-repronim-do-abcd-analysis" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem Statement</strong>:  I have access to ABCD data, and would like to run a containerized analysis on that imaging data. More specifically, let’s say that the container I’d like to run is dcanlabs/abcd-hcp-pipeline:latest (GitHub, DockerHub), a “bids application for processing functional MRI data, robust to scanner, acquisition and age variability”.</p>
+<p><strong>Stakeholders</strong>: End User (Data Analyst)</p>
+<p><a class="reference external" href="https://docs.google.com/document/d/1KR_dU3FMu2Fa67SZqMu_FnUWJID5qnRwyfGfni7k9Uw/edit#heading=h.6xrv3m2migir">Published doc</a></p>
+</div>
+<div class="section" id="volume-7-how-would-repronim-read-dicom-data">
+<h2>Volume 7: How Would ReproNim Read DICOM data?<a class="headerlink" href="#volume-7-how-would-repronim-read-dicom-data" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem Statement</strong>: I’ve got DICOM data from my scanner. How to I ‘ingest’ this data in a  version and provenance aware fashion?</p>
+<p><strong>Stakeholders</strong>: End User (Data Acquirer) / Data Managers</p>
+<p>Published doc: TBD</p>
+</div>
+<div class="section" id="volume-8-how-would-repronim-make-reproducibility-manageable">
+<h2>Volume 8: How Would ReproNim Make Reproducibility Manageable<a class="headerlink" href="#volume-8-how-would-repronim-make-reproducibility-manageable" title="Permalink to this headline">¶</a></h2>
+<p>(aka 5-Steps to More Reproducible Neuroimaging Computation)
+<strong>Problem Statement</strong>: There are so many things one has to do to make everything completely reproducible. Is there a list of smaller, more manageable steps I can engage that will still make a positive difference?</p>
+<p><strong>Stakeholders</strong>: Everyone</p>
+<p>Published doc: TDB</p>
+</div>
+<div class="section" id="volume-9-containerize-a-workflow-enigma-container-for-shape-analysis">
+<h2>Volume 9: Containerize a Workflow (Enigma Container for Shape Analysis)<a class="headerlink" href="#volume-9-containerize-a-workflow-enigma-container-for-shape-analysis" title="Permalink to this headline">¶</a></h2>
+<p><strong>Problem Statement</strong>: I have an analysis workflow I run locally. I would like to make it into a containerized workflow. We explore this topic using the ENIGMA Sulcal Shape analysis workflow as an example.</p>
+<p><strong>Stakeholders</strong>: Data Analyst</p>
+<p><a class="reference external" href="https://docs.google.com/document/d/1J93-tOpKtXQvOZ_fD0-8JV4W5iSBrXbIF6UVEpm37_8/edit#heading=h.f2r73p8wqece">Published doc</a></p>
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="#">HowWouldReproNim</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2020, The ReproNim Team.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.8.5</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="_sources/index.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
