@@ -3,9 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Contents:
+
 	
 .. image:: images/logo-512.png
    :scale: 100%
@@ -32,6 +30,12 @@ Volume 1: How Would ReproNim Do Local Container Analysis
 **Stakeholder**: End User (Data Analyst)
 
 `Published doc <https://docs.google.com/document/d/1Mq8Tsn8o8EKz2O4dyJJaHdNtZTzptb9eoGcZk7ZfsnE/edit#heading=h.f2r73p8wqece>`_
+
+ .. toctree::
+     :maxdepth: 2
+     :caption: Run a container:
+ 
+     vol01/intro
 
 Volume 2: How Would ReproNim publish a dataset
 ==============================================
