@@ -32,10 +32,10 @@ Volume 1: How Would ReproNim Do Local Container Analysis
 `Published doc <https://docs.google.com/document/d/1Mq8Tsn8o8EKz2O4dyJJaHdNtZTzptb9eoGcZk7ZfsnE/edit#heading=h.f2r73p8wqece>`__
 
  .. toctree::
-     :maxdepth: 2
+     :maxdepth: 1
      :caption: Run a container:
  
-     vol01/intro
+     vol01/localcontainer
 
 Volume 2: How Would ReproNim publish a dataset
 ==============================================
