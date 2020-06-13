@@ -1,0 +1,103 @@
+.toggle .header {
+    display: block;
+    clear: both;
+    cursor: pointer;
+}
+
+/* force the arrow into the same line */
+.toggle .header p {display: inline; }
+/*text color for fat text*/
+.toggle .header strong {color: #5dbcd2 }
+
+
+.toggle .header:before {
+    content: "⇩ ";
+}
+
+.toggle .header.open:before {
+    content: "⇧ ";
+}
+
+.toggle {
+    display: block;
+    border: 1px solid #333333ff;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background: #eee;
+}
+
+.findoutmore .header:before {
+    content: "⇩ Find out more: ";
+    color: #5dbcd2;
+    font-weight: bold;
+}
+
+.findoutmore .header.open:before {
+    content: "⇧ Find out more: ";
+    color: #5dbcd2;
+    font-weight: bold;
+}
+
+/* make TODOslook plain and stand out at the same time
+ * TODOs should not be a frequent feature in the handbook */
+div.admonition-todo {
+    background-color: #eee;
+    border: 1px solid red;
+}
+
+/* Custom look for Here is the gist admonitions
+ * using the repronim blue . */
+div.heresthegist {
+    background-color: rgba(62, 44, 0, 0.2);
+    border: 2px solid rgba(3, 223, 252, 1);
+    border-style: groove;
+}
+
+div.sphinxsidebar {
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+div.body p {
+    text-align: justify;
+    margin: 1.5em 0 1.5em 0;
+}
+
+div.body li, div.body dd {
+    text-align: justify;
+}
+
+table.docutils .justify-align {
+    text-align: justify;
+}
+
+
+progress {
+  color: #5dbcd2;
+}
+
+progress::-webkit-progress-value {
+  background: #5dbcd2;
+}
+
+progress::-moz-progress-bar {
+  background: #5dbcd2;
+}
+
+progress::-webkit-progress-value {
+  background: #5dbcd2;
+}
+
+progress::-webkit-progress-bar {
+  background: #5dbcd2;
+}
+
+.redirect {
+  font-family: monospace, monospace;
+}
+
+.redirect::before {
+  content: "↷ "
+}
