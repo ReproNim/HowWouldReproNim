@@ -1,0 +1,4 @@
+Babel
+Pygments
+# install own directives
+-e .
