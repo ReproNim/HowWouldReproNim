@@ -1,11 +1,32 @@
 Volume 1: How Would ReproNim Do Local Container Analysis
 --------------------------------------------------------
 
+Version 1.1, published April 5, 2020.
+
+doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
+
 **Problem Statement**: I have an image file (anat.nii); I have a container I want to run (neuronets/kwyk:latest-cpu); and I’d like to ‘manage’ the process and output in a reproducible way and then publish this process so that someone else could do the same thing.
 
 **Stakeholder**: End User (Data Analyst)
 
-`Published doc <https://docs.google.com/document/d/1Mq8Tsn8o8EKz2O4dyJJaHdNtZTzptb9eoGcZk7ZfsnE/edit#heading=h.f2r73p8wqece>`_
+**Change log**
+
+- Version 1.0: Published February 7, 2020.
+- Version 1.1: Published April 5, 2020.  Includes some test corrections and an accompanying Jupyter Notebook where the examples of this document can be played in a pre-configured Docker environment.
+
+.. findoutmore:: Jupyter Notebook
+
+   This document has an accompanying Jupyter Notebook where the examples of this document can be played in a pre-configured Docker environment.  Because the tutorial includes launching containers, this cannot be provided as a service, but you can run it yourself if you have Docker installed.  You will also need an empty directory to work in.  Run:
+
+       mkdir work
+       cd work
+       docker run \
+            -p 8888:8888 \
+            -v /var/run/docker.sock:/var/run/docker.sock \
+            -v `pwd`:`pwd` \
+            repronim/how-would-1:latest
+
+   Then point your browser to http://localhost:8888/, click on how-would-repronim-vol-1.ipynb, and off you go.
 
 **Overview**
 
@@ -14,16 +35,6 @@ Volume 1: How Would ReproNim Do Local Container Analysis
 - :ref:`vol1_costs`
 - :ref:`vol1_gains`
 - :ref:`vol1_conclusion`
-
-.. heresthegist::
-
-   The document contains a lot of words ...
-
-   [add the short overview in here, i was lazy because I couldn't copy-paste it from the google doc... :) ]
-
-.. findoutmore:: click here
-
-   here's more content, useful to hide extra infos
 
 .. _vol1_problem_statement:
 
