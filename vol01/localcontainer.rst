@@ -16,7 +16,7 @@ doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
 
 .. findoutmore:: Jupyter Notebook
 
-   This document has an accompanying Jupyter Notebook where the examples of this document can be played in a pre-configured Docker environment.  Because the tutorial includes launching containers, this cannot be provided as a service, but you can run it yourself if you have Docker installed.  You will also need an empty directory to work in.  Run:
+   This document has an accompanying Jupyter Notebook where the examples of this document can be played in a pre-configured Docker environment.  Because the tutorial includes launching containers, this cannot be provided as a service, but you can run it yourself if you have Docker installed.  You will also need an empty directory to work in.  Run::
 
        mkdir work
        cd work
