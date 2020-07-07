@@ -101,7 +101,7 @@ html_theme = 'alabaster'
 #
 html_theme_options = {
     'show_powered_by': False,
-    'github_user': 'dnkennedy',
+    'github_user': 'repronim',
     'github_repo': 'HowWouldReproNim',
     'github_banner': True,
     'show_related': True,
