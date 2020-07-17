@@ -57,7 +57,7 @@ At a high level, ReproNim would suggest that your image file should be under con
 that your container should be under content management, and you should run your processing in a way that manages the output.
 More specifically, this means that we should put the image file under `DataLad <https://www.datalad.org/>`_ control, put the container under DataLad control, and run the container on the data using :command:`dataLad run <container>`’.
 
-In Practive, the gory details...
+In Practice, the gory details...
 """"""""""""""""""""""""""""""""
 
 OK, let’s do this!

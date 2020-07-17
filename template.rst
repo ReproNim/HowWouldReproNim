@@ -37,7 +37,7 @@ ReproNim Solution
 In theory
 """""""""
 
-In Practive
+In Practice
 """""""""""
 
 .. _vol1_costs:
