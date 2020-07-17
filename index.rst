@@ -18,7 +18,7 @@ ReproNim has created a lot of tools. It is often confusing, however, how these t
 
 .. important::
 
-   The handbook is currently in pre-alpha stage.
+   The handbook is currently in alpha stage.
    If you would be willing to provide feedback on its contents, please
 ..   `get in touch <https://github.com/datalad-handbook/book/issues/new>`_.
  
