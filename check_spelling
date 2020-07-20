@@ -1,0 +1,13 @@
+#!/bin/sh
+
+find _build/text -name "*.txt"  | grep -v _build/text/venv/ | while read path
+do
+    subpath=`echo "$path" | sed 's/_build\/text\///'`
+    echo "----- $subpath"
+    cat "$path" | aspell list | sort -u | grep -xv -f words/global
+    echo
+done
+
+exit 0
+
+# eof
