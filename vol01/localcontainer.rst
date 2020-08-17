@@ -5,8 +5,6 @@ Version 1.1, published April 5, 2020.
 
 doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
 
-**Problem Statement**: I have an image file (anat.nii); I have a container I want to run (neuronets/kwyk:latest-cpu); and I’d like to ‘manage’ the process and output in a reproducible way and then publish this process so that someone else could do the same thing.
-
 **Stakeholder**: End User (Data Analyst)
 
 **Change log**
