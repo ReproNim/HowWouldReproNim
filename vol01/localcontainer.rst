@@ -5,8 +5,6 @@ Version 1.1, published April 5, 2020.
 
 doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
 
-**Stakeholder**: End User (Data Analyst)
-
 **Change log**
 
 - Version 1.0: Published February 7, 2020.
@@ -33,6 +31,8 @@ doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
 - :ref:`vol1_costs`
 - :ref:`vol1_gains`
 - :ref:`vol1_conclusion`
+
+**Stakeholder**: End User (Data Analyst)
 
 .. _vol1_problem_statement:
 
