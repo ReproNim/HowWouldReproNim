@@ -466,8 +466,7 @@ This should take the following 3 commands:
      Article
      Would you like to create a new article to upload to?  If not - we will list existing articles (choices: yes, no): yes
 
-     You need to authenticate with 'figshare' credentials. https://figshare.com/account/applications provides information on how to gain access
-     token:
+     You need to authenticate with 'figshare' credentials. https://figshare.com/account/applications provides information on how to gain access token:
      [INFO   ] Created a new (private) article 9943046 at https://figshare.com/account/articles/9943046. Please visit it, enter additional meta-data and make public
      [INFO   ] 'Registering' /Users/davidkennedy/ReproKwyk/reprokwyk/datalad_c6ff949e-c5d5-11e9-a14a-784f436580b3.zip within annex
      [INFO   ] Adding URL https://ndownloader.figshare.com/files/17905763 for it
