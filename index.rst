@@ -82,6 +82,12 @@ Volume 6: How Would ReproNim do ABCD analysis
 
 `Published doc <https://docs.google.com/document/d/1KR_dU3FMu2Fa67SZqMu_FnUWJID5qnRwyfGfni7k9Uw/edit#heading=h.6xrv3m2migir>`__
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Do an ABCD analysis:
+
+    vol06/abcdanalysis
+
 Volume 7: How Would ReproNim Read DICOM data?
 =============================================
 
