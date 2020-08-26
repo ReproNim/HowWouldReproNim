@@ -46,6 +46,12 @@ Volume 2: How Would ReproNim publish a dataset
 
 `Published doc <https://docs.google.com/document/d/1wv-COdc2wYHepTENGZ8PbcWuxWLMjxMmvKPxOdJhkRY/edit#heading=h.f2r73p8wqece>`__
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Publish a dataset:
+
+    vol02/publishdata
+
 Volume 3: How Would ReproNim NIDMify my software
 ================================================
 
