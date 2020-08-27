@@ -1,13 +1,13 @@
 Volume 9: How Would ReproNim Containerize a Workflow
 ----------------------------------------------------
 
-Version 0.7, published DATE.
+Version 0.7, published August 27, 2020.
 
 **Change log**
 
 - Version 0.5: Published April 5, 2020.
 - Version 0.6: Published May 25, 2020.
-- Version 0.7: Published DATE.  Formatting for Sphinx.
+- Version 0.7: Published August 27, 2020.  Formatting for Sphinx.
 
 **Authors:** Peer Herholz and The ReproNim Team [1]_
 
