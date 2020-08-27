@@ -1070,7 +1070,7 @@ Appendix 1: The final generate_enigma-sulci_images.sh script
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. [1]
-   repronim.org/aboutus.html
+   https://repronim.org/aboutus.html
 
 .. [2]
    https://surfer.nmr.mgh.harvard.edu/
