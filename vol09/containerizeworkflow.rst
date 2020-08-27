@@ -638,7 +638,7 @@ can indicate this in our function accordingly:
 *Please note that depending on your pipeline, this list can be very
 short or very long, easy or hard to assemble. Don’t give up, searching
 the world wide web and asking questions in suited forums
-like `www.neurostars.org <http://www.neurostars.org>`__ will lead to
+like Neurostars (www.neurostars.org) will lead to
 the answer! Don’t worry, these things need time, practice and
 experience, especially if you are new to all of this!*
 
