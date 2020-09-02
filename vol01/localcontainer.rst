@@ -1,7 +1,7 @@
 Volume 1: How Would ReproNim Do Local Container Analysis
 --------------------------------------------------------
 
-Version 1.2: Published DATE.
+Version 1.2, published September 2, 2020.
 
 doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
 
@@ -9,7 +9,7 @@ doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
 
 - Version 1.0: Published February 7, 2020.
 - Version 1.1: Published April 5, 2020.  Includes some test corrections and an accompanying Jupyter Notebook where the examples of this document can be played in a pre-configured Docker environment.
-- Version 1.2: Published DATE.  Formatting for Sphinx.
+- Version 1.2: Published September 2, 2020.  Formatting for Sphinx.
 
 **Overview**
 
