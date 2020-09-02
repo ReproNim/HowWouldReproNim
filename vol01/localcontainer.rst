@@ -1,18 +1,25 @@
 Volume 1: How Would ReproNim Do Local Container Analysis
 --------------------------------------------------------
 
-Version 1.1, published April 5, 2020.
+Version 1.2: Published DATE.
 
 doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
-
-**Problem Statement**: I have an image file (anat.nii); I have a container I want to run (neuronets/kwyk:latest-cpu); and I’d like to ‘manage’ the process and output in a reproducible way and then publish this process so that someone else could do the same thing.
-
-**Stakeholder**: End User (Data Analyst)
 
 **Change log**
 
 - Version 1.0: Published February 7, 2020.
 - Version 1.1: Published April 5, 2020.  Includes some test corrections and an accompanying Jupyter Notebook where the examples of this document can be played in a pre-configured Docker environment.
+- Version 1.2: Published DATE.  Formatting for Sphinx.
+
+**Overview**
+
+- :ref:`vol1_problem_statement`
+- :ref:`vol1_repronim_solution`
+- :ref:`vol1_costs`
+- :ref:`vol1_gains`
+- :ref:`vol1_conclusion`
+
+**Stakeholder**: End User (Data Analyst)
 
 .. findoutmore:: Jupyter Notebook
 
@@ -27,14 +34,6 @@ doi: `10.18116/d23x-t286 <https://dx.doi.org/10.18116/d23x-t286>`_
             repronim/how-would-1:latest
 
    Then point your browser to http://localhost:8888/, click on how-would-repronim-vol-1.ipynb, and off you go.
-
-**Overview**
-
-- :ref:`vol1_problem_statement`
-- :ref:`vol1_repronim_solution`
-- :ref:`vol1_costs`
-- :ref:`vol1_gains`
-- :ref:`vol1_conclusion`
 
 .. _vol1_problem_statement:
 
@@ -467,8 +466,7 @@ This should take the following 3 commands:
      Article
      Would you like to create a new article to upload to?  If not - we will list existing articles (choices: yes, no): yes
 
-     You need to authenticate with 'figshare' credentials. https://figshare.com/account/applications provides information on how to gain access
-     token:
+     You need to authenticate with 'figshare' credentials. https://figshare.com/account/applications provides information on how to gain access token:
      [INFO   ] Created a new (private) article 9943046 at https://figshare.com/account/articles/9943046. Please visit it, enter additional meta-data and make public
      [INFO   ] 'Registering' /Users/davidkennedy/ReproKwyk/reprokwyk/datalad_c6ff949e-c5d5-11e9-a14a-784f436580b3.zip within annex
      [INFO   ] Adding URL https://ndownloader.figshare.com/files/17905763 for it
