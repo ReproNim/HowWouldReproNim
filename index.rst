@@ -70,6 +70,12 @@ Volume 4: How Would ReproNim Managing Local FreeSurfer Results
 
 `Published doc <https://docs.google.com/document/d/18Ud5RWec-As65-FFgkzcwf9agVtxW9bcozZeuLyfRNM/edit#heading=h.f2r73p8wqece>`__
 
+ .. toctree::
+     :maxdepth: 1
+     :caption: Manage Local FreeSurfer Results:
+ 
+     vol04/freesurferpond
+
 Volume 5: How Would ReproNim Markup Local Behavioral Data in RedCap for Export
 ==============================================================================
 
