@@ -1,7 +1,7 @@
 Volume 4: How Would ReproNim Manage Local FreeSurfer Results
 ------------------------------------------------------------
 
-Version 1.2, Published DATE.
+Version 1.2, Published September 3, 2020.
 
 doi: `10.18116/tvz6-1d44 <https://dx.doi.org/doi:10.18116/tvz6-1d44>`_
 
@@ -9,7 +9,7 @@ doi: `10.18116/tvz6-1d44 <https://dx.doi.org/doi:10.18116/tvz6-1d44>`_
 
 - Version 0.9: Published April 28, 2020.
 - Version 1.0: Published May 6, 2020.  Includes some text corrections and an accompanying notebook.
-- Version 1.2: Published DATE.  Formatting for Sphinx.
+- Version 1.2: Published September 3, 2020.  Formatting for Sphinx.
 
 **Summary**
 
