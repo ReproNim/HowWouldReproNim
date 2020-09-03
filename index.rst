@@ -116,3 +116,9 @@ Volume 9: Containerize a Workflow (Enigma Container for Shape Analysis)
 **Stakeholders**: Data Analyst
 
 `Published doc <https://docs.google.com/document/d/1J93-tOpKtXQvOZ_fD0-8JV4W5iSBrXbIF6UVEpm37_8/edit#heading=h.f2r73p8wqece>`__
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Containerize a workflow:
+
+    vol09/containerizeworkflow
