@@ -1,12 +1,12 @@
 Volume 6: How Would ReproNim do an ABCD Analysis
 ------------------------------------------------
 
-Version 0.91, published DATE.
+Version 0.91, published September 3, 2020.
 
 **Change log**
 
 - Version 0.9: published May 6, 2020.
-- Version 0.91: published DATE.  Formatting for Sphinx.
+- Version 0.91: published September 3, 2020.  Formatting for Sphinx.
 
 **Overview**
 
