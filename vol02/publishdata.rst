@@ -3,12 +3,12 @@ Volume 2: How Would ReproNim Publish a Set of NIfTI Files
 
 Version 0.91, published September 3, 2020.
 
+doi: `10.18116/97c1-z931 <https://dx.doi.org/doi:10.18116/97c1-z931>`_
+
 **Change log**
 
 - Version 0.9: published April 6, 2020.
 - Version 0.91: published September 3, 2020.  Formatting for Sphinx.
-
-doi: `10.18116/97c1-z931 <https://dx.doi.org/doi:10.18116/97c1-z931>`_
 
 **Summary**
 
