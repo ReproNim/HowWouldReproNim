@@ -1,3 +1,5 @@
+.. _vol-2:
+
 Volume 2: How Would ReproNim Publish a Set of NIfTI Files
 ---------------------------------------------------------
 

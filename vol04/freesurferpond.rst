@@ -1,3 +1,5 @@
+.. _vol-4:
+
 Volume 4: How Would ReproNim Manage Local FreeSurfer Results
 ------------------------------------------------------------
 

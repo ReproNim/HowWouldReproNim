@@ -1,3 +1,5 @@
+.. _vol-6:
+
 Volume 6: How Would ReproNim do an ABCD Analysis
 ------------------------------------------------
 

@@ -29,13 +29,7 @@ Volume 1: How Would ReproNim Do Local Container Analysis
 
 **Stakeholder**: End User (Data Analyst)
 
-`Published doc <https://docs.google.com/document/d/1Mq8Tsn8o8EKz2O4dyJJaHdNtZTzptb9eoGcZk7ZfsnE/edit#heading=h.f2r73p8wqece>`__
-
- .. toctree::
-     :maxdepth: 1
-     :caption: Run a container:
- 
-     vol01/localcontainer
+:ref:`vol-1`
 
 Volume 2: How Would ReproNim publish a dataset
 ==============================================
@@ -44,13 +38,7 @@ Volume 2: How Would ReproNim publish a dataset
 
 **Stakeholder**: End User (Data Acquirer)
 
-`Published doc <https://docs.google.com/document/d/1wv-COdc2wYHepTENGZ8PbcWuxWLMjxMmvKPxOdJhkRY/edit#heading=h.f2r73p8wqece>`__
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Publish a dataset:
-
-    vol02/publishdata
+:ref:`vol-2`
 
 Volume 3: How Would ReproNim NIDMify my software
 ================================================
@@ -68,13 +56,7 @@ Volume 4: How Would ReproNim Managing Local FreeSurfer Results
 
 **Stakeholder**: End User (Data Analyst)
 
-`Published doc <https://docs.google.com/document/d/18Ud5RWec-As65-FFgkzcwf9agVtxW9bcozZeuLyfRNM/edit#heading=h.f2r73p8wqece>`__
-
- .. toctree::
-     :maxdepth: 1
-     :caption: Manage Local FreeSurfer Results:
- 
-     vol04/freesurferpond
+:ref:`vol-4`
 
 Volume 5: How Would ReproNim Markup Local Behavioral Data in RedCap for Export
 ==============================================================================
@@ -92,13 +74,7 @@ Volume 6: How Would ReproNim do ABCD analysis
 
 **Stakeholders**: End User (Data Analyst)
 
-`Published doc <https://docs.google.com/document/d/1KR_dU3FMu2Fa67SZqMu_FnUWJID5qnRwyfGfni7k9Uw/edit#heading=h.6xrv3m2migir>`__
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Do an ABCD analysis:
-
-    vol06/abcdanalysis
+:ref:`vol-6`
 
 Volume 7: How Would ReproNim Read DICOM data?
 =============================================
@@ -119,7 +95,6 @@ Volume 8: How Would ReproNim Make Reproducibility Manageable
 
 Published doc: TDB
 
-
 Volume 9: Containerize a Workflow (Enigma Container for Shape Analysis)
 =======================================================================
 
@@ -127,10 +102,4 @@ Volume 9: Containerize a Workflow (Enigma Container for Shape Analysis)
 
 **Stakeholders**: Data Analyst
 
-`Published doc <https://docs.google.com/document/d/1J93-tOpKtXQvOZ_fD0-8JV4W5iSBrXbIF6UVEpm37_8/edit#heading=h.f2r73p8wqece>`__
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Containerize a workflow:
-
-    vol09/containerizeworkflow
+:ref:`vol-9`
