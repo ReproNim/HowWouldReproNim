@@ -16,12 +16,6 @@ Welcome to the "How Would ReproNim Do *That*?" Series
 
 ReproNim has created a lot of tools. It is often confusing, however, how these tools fit together to solve specific problems. In the “How would ReproNim do that?” series of documents, we look at a number of real world problems and discuss the “ReproNim Way” of handling them. We try to compare and contrast the ReproNim Way relative to the “traditional” way of handling these topics, and explore the potential costs and benefits that come with the ReproNim approach.
 
-.. important::
-
-   The handbook is currently in alpha stage.
-   If you would be willing to provide feedback on its contents, please
-..   `get in touch <https://github.com/datalad-handbook/book/issues/new>`_.
- 
 Volume 1: How Would ReproNim Do Local Container Analysis
 ========================================================
 
