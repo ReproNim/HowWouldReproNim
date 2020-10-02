@@ -79,6 +79,8 @@ Volume 7: How Would ReproNim Read DICOM data?
 
 Published doc: TBD
 
+While the 'How Would ReproNim" version of this is still in preparation, we would highly encourage interested users to view the "DataLad Handbook" section on this topic which can be found `here http://handbook.datalad.org/en/latest/usecases/reproducible_neuroimaging_analysis.html?highlight=reproin#data-preparation`_
+
 Volume 8: How Would ReproNim Make Reproducibility Manageable
 ============================================================
 
